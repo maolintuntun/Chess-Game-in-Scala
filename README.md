@@ -1,6 +1,7 @@
 A funny group work complished in 3 days.
 
 Language: Scala
+
 Compiler: Intellij IDEA
 
 You are free to choose three levels,  separately based on Greedy Method, Traditional search, Min-Max Algorithm.
