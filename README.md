@@ -25,7 +25,7 @@ Just run it and you will have fun and lost in the chessing world!!
 # Design and approach
   1. A two-dimensional array for storage
   2. For Repentance operation, we use stack to store each step's location
-  3. Main class implements the creation and initialization of the framework by calling Chessbutton, etc., and then transfers the control to          MyChessPosition to start the game.
+  3. Main class implements the creation and initialization of the framework by calling Chessbutton, etc., and then transfers the control to MyChessPosition to start the game.
   4. Three levels work well through Greedy algorithm, Direct search and Min-max algorithm.
   
 # To be improved: 
