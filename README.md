@@ -1,4 +1,3 @@
-A funny and smart group work complished in 3 days.
 
 # Language: Scala
 
